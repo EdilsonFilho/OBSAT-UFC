@@ -35,7 +35,7 @@ scientific world and industry.
 
 ### team tutor
 Silva Filho, José Edilson Master's degree Student in Teleinformatics Engineering. https://www.linkedin.com/in/jos%C3%A9-edilson-silva-filho-59a543117/ \
-Nicolas, Dr
+Araújo Moreira, Nícolas de. PhD in Electronics, Microelectronics, Optics and Lasers, Optoelectronics and Microwaves (University of Lille - France, 2019) . https://www.linkedin.com/in/n%C3%ADcolas-de-ara%C3%BAjo-moreira-22470b9b/ \
 
 ## Team
 
