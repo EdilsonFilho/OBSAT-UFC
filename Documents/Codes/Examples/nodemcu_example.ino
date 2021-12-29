@@ -53,7 +53,7 @@ void postToServer(String code, float liquid){
    HTTPClient http;
 
   
-  if(http.begin("http://nivelgas.com.br/api/measurements")){
+  if(http.begin("http://xxxxxxxxxxxx")){  //Colocar a url
  
   http.addHeader("accept", "application/json");
   http.addHeader("content-type", "application/json");
