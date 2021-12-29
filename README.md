@@ -1,8 +1,8 @@
 ## OBSAT - UFC 
 
-The purpose of this repository is to keep information about the AUTOSAT project that is competing in the 1st Brazilian Satellite Olympiad. Our project consists of two main experiments. \ 
-1- Use blockchain for data protection and for cryptobootloader on nanosatelites. \ 
-2- Carry out fault tolerance tests on data stored in the satellite memory.
+The purpose of this repository is to keep information about the AUTOSAT project that is competing in the 1st Brazilian Satellite Olympiad. Our project consists of two main experiments: \ 
+1- Use blockchain for data protection and for cryptobootloader on nanosatelites  \ 
+2- Carry out fault tolerance tests on data stored in the satellite memory.  \
 
 
 
