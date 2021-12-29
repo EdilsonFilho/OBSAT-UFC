@@ -21,34 +21,28 @@ operation. We will thus be able to analyze the behavior of our solutions aiming 
 scientific world and industry.
 
 ## Goals
-`General`
--Research, plan and propose a robust solution for
-a low-cost onboard computer for missions
-from CubeSats.
--Research the use of blockchain to perform
-tasks in space missions.
--Understand how AMAS affects devices in space
+`General`  \
+-Research, plan and propose a robust solution for a low-cost onboard computer for missions from CubeSats. \
+-Research the use of blockchain to perform tasks in space missions.\
+-Understand how AMAS affects devices in space\
 
-`Specific`
--Research and implement writing algorithms and
-read in RAM and FLASH memory
--Implement the concept of smart contracts as form of interaction in nanosatellite constellations
--Share research results and implementations carried out.
-
+`Specific`  \
+-Research and implement writing algorithms and read in RAM and FLASH memory \
+-Implement the concept of smart contracts as form of interaction in nanosatellite constellations \
+-Share research results and implementations carried out. \
 
 
 
 ### team tutor
-Edilson Filho, Master's degree Student and BSc. Computer Engineer. https://www.linkedin.com/in/jos%C3%A9-edilson-silva-filho-59a543117/
-Nicolas 
+Silva Filho, José Edilson Master's degree Student in Teleinformatics Engineering. https://www.linkedin.com/in/jos%C3%A9-edilson-silva-filho-59a543117/ \
+Nicolas, Dr
 
 ## Team
 
-	
-1- Lia Moraes Campello
-2- Lucas Oliveira Furtado, https://www.linkedin.com/in/lucas-furtado-3313a3211
-3- Igor Braga Palhano
-4- Ruan Pereira Alves
+1- Moraes Campello, Lia  \
+2- Oliveira Furtado,Lucas   https://www.linkedin.com/in/lucas-furtado-3313a3211 \
+3- Braga Palhano, Igor  https://www.linkedin.com/in/igor-palhano-81102622a/ \
+4- Pereira Alves, Ruan \
 
 
 
